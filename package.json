@@ -1,8 +1,9 @@
 {
   "name": "node-require-jsx",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "require jsx file in node",
   "main": "index.js",
+  "repository": "https://github.com/jserme/node-require-jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
